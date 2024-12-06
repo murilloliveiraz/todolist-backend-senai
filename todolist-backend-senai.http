@@ -1,0 +1,6 @@
+@todolist_backend_senai_HostAddress = http://localhost:5100
+
+GET {{todolist_backend_senai_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

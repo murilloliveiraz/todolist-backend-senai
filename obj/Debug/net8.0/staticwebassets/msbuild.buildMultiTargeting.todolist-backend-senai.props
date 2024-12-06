@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\todolist-backend-senai.props" />
+</Project>
