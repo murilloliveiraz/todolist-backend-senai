@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("todolist-backend-senai")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41acf7143a56724587fb597b3ca3572acc8d5919")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+779f5f4e85a88385a549e9d056cad116cda8811e")]
 [assembly: System.Reflection.AssemblyProductAttribute("todolist-backend-senai")]
 [assembly: System.Reflection.AssemblyTitleAttribute("todolist-backend-senai")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
